@@ -12,13 +12,13 @@
   "Shipping": "Envío",
   "Total": "Total",
   "Checkout with PayPal": "Pago con PayPal",
-  "Get Directions": "Get Directions",
+  "Get Directions": "Cómo llegar",
   "Submit": "Enviar",
   "Form submitted successfully": "Formulario enviado correctamente",
   "There was an error submitting your form": "Se ha producido un error al enviar el formulario",
   "Permanent Link": "Enlace Permanente",
   "Logged in as": "Conectado como",
-  "Login successful": "Inicio de sesión correcto!",
+  "Login successful": "¡Inicio de sesión correcto!",
   "Your username or password is invalid": "Tu nombre de usuario o contraseña no son válidos",
   "Email": "Email",
   "Password": "Contraseña",
@@ -38,5 +38,5 @@
   "Sign In": "Registrarse",
   "Last modified by": "Última modificación por",
   "Direction": "Dirección",
-  "Clear Cart": "claro carrito"
+  "Clear Cart": "Vaciar cesta"
 }
